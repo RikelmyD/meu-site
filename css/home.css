@@ -1,0 +1,80 @@
+body{
+    background-color: #eee8e8c5;
+
+}
+.form{
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.card{
+    box-shadow: 1xp 1px 5px #ffffff;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.card-top{
+    text-align: center;
+
+}
+.imgtop{
+    border-radius: 50px;
+    width: 100px;
+}
+.imglow{
+    border-radius: 50;
+    width: 100px;
+    text-align: end;
+}
+.card-group{
+    margin-bottom: 10px;
+}
+.card-group > label{
+    width:50%;
+    color: rgb(255, 255, 255);
+    display: block;
+}
+.card-group > input{
+    border-radius:5px;
+    outline: 0;
+    width: 100%;
+    height: 25px;
+    padding: 5px;
+
+}
+a {
+    background-image:linear-gradient(to right, #000000,rgb(15, 16, 20));
+    width: 100%;
+    border-radius: 30px;
+    padding: 15px;
+    color: #ccc;
+    border: 0px;
+    outline: 0;
+    text-align: center;
+    text-decoration: none;
+}
+.btn button:hover{
+    background-image:linear-gradient(to right, #000000,rgb(15, 16, 20));
+
+
+}
+.foto{
+    width: 20px;
+    text-align: center;
+
+}
+.rodape{
+    width: 400px;
+    
+
+}
+.card-rodape{
+    text-align: center;
+}
+
+
+
+    
+
+
+

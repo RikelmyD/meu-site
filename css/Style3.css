@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(250, 250, 250);
+    color: rgb(101, 101, 253);
+}
+h1{
+    color: black;
+}
+table, th,td{
+    border: 2px solid#444;
+    border-collapse: collapse;
+    padding: 5px 5px;
+    text-align: center;
+
+}
+table{
+    width: 100%;
+}
+.conteudo{
+    text-align: auto;
+}
+.ter{
+    text-align:center;
+}
+th{
+    background-color: rgb(5, 5, 5);
+}
+tr:hover{
+    background-color: rgb(255, 255, 255);
+}
+.id{
+    text-align: center;
+}
+body > input{
+    text-align: center;
+}
+
